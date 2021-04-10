@@ -1,0 +1,5 @@
+﻿  Race.cpp
+  earth.cpp
+C:\Users\Anastasiia\source\repos\Race\Race\earth.cpp(59,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  Race.vcxproj -> C:\Users\Anastasiia\source\repos\Race\Debug\Race.exe
